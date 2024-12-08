@@ -1,4 +1,4 @@
-### Hellou Word! Eu sou Bruno Klisman 👋
+### Hello Word! Eu sou Bruno Klisman 👋
 - Tenho 19 anos, sou um dev apaixonado por tecnologia e atualmente tenho a oportunidade de aprimorar minhas habilidades na Residência Tecnológica do Porto Digital, onde estou imerso em projetos desafiadores e inovadores. 💻
   #### Formação 🎓
 - Técnico em Desenvolvimento de Sistemas
